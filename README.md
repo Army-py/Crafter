@@ -17,10 +17,11 @@
         <li>Get the skin of a payer (<code>crafter skin [username]</code>)</li>
       	<li>Get the UUID of a payer (<code>crafter uuid [username]</code>)</li>
         <li>Fond the usernames history from a payer (<code>crafter names [username]</code>)</li>
-      	<li>Get the list of available Optifine versions (it is possible that some versions are missing) (<code>crafter optifine</code>)</li>
+      	<li>Get the list of available Optifine versions (it is possible that some versions are missing)
+          (<code>crafter optifine</code>)</li>
       	<li>More content and improvements are coming...</li>
     </ul>
-  	<h2>Languages</h2>
+<h2>Languages</h2>
     <ul>
         <li>Added different languages to search for recipes, their info and the list of compatible recipes as well as search for mobs stats! (<code>crafter recipe balise</code> in French)</li>
         <li>Compatible languages: German, Spanish, Finnish, French, Icelandic, Macedonian, Polish, Russian, Turkish, Ukrainian.</li>
