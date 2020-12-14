@@ -28,10 +28,10 @@
     </ul>
 <h2>Examples</h2>
   <a>
-    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607973473-observer-recipe.png" alt="Observer recipe" width="186" height="171">
-    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607973473-glass-recipe.png" alt="Glass recipe" width="183" height="161">
-    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607973473-netherite-pickaxe-recipe.png" alt="Netherite Pickaxe recipe" width="313" height="220">
-    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607973473-gold-ingot-search.png" alt="Gold Ingot search" width="270" height="250">
-    <img src="http://image.noelshack.com/fichiers/2020/48/6/1606593683-image-2020-11-28-210126.png" alt="Chest Item Info" width="175" height="218">
-    <img src="http://image.noelshack.com/fichiers/2020/48/6/1606593844-image-2020-11-28-210408.png" alt="Enderman Mob Info" width="256" height="148">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-observer-recipe.png" alt="Observer recipe" width="186" height="171">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-glass-recipe.png" alt="Glass recipe" width="183" height="161">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-netherite-pickaxe-recipe.png" alt="Netherite Pickaxe recipe" width="277" height="152">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-gold-ingot-search.png" alt="Gold Ingot search" width="175" height="218">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-chest-iteminfo.png" alt="Chest Item Info" width="175" height="218">
+    <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="175" height="218">
   </a>
