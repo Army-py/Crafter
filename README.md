@@ -1,4 +1,4 @@
-# Crafter
+<h1>Crafter | <a href="https://top.gg/bot/740727392041041981">Top.gg Page</a></h1>
 <a href="https://top.gg/bot/740727392041041981"> 
   <img src="https://top.gg/api/widget/status/740727392041041981.svg" alt="Crafter" />
   <img src="https://top.gg/api/widget/servers/740727392041041981.svg?noavatar=true" alt="Crafter" />
