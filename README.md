@@ -7,9 +7,7 @@
   <img src="https://top.gg/api/widget/owner/740727392041041981.svg?noavatar=true" alt="Crafter" />
 </a>
 
-Project in constant evolution
-
-<h2>Features</h2>
+<h2>Features (Project in constant evolution)</h2>
     <ul>
     	<li>All Minecraft recipes of items and potions are referenced in a command (<code>crafter recipe [item]</code>)</li>
         <li>Find a recipe from an item ( <code>crafter search [item]</code> )</li>
