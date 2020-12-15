@@ -1,4 +1,4 @@
-<h1>Crafter | <a href="https://top.gg/bot/740727392041041981">Top.gg Page</a></h1>
+<h1>Crafter | <a href="https://discord.com/oauth2/authorize?client_id=740727392041041981&permissions=311360&scope=bot">Invite Crafter</a></h1>
 <a href="https://top.gg/bot/740727392041041981"> 
   <img src="https://top.gg/api/widget/status/740727392041041981.svg" alt="Crafter" />
   <img src="https://top.gg/api/widget/servers/740727392041041981.svg?noavatar=true" alt="Crafter" />
