@@ -35,3 +35,24 @@
     <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-chest-iteminfo.png" alt="Chest Item Info" width="163" height="267">
     <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="232" height="121">
   </a>
+
+
+<h2>Recent Changelog</h2>
+
+```
+[12/12/2020]
+- Added basic game textures for items
+- Added the translation of the necessary items according to the language of the recipe item requested
+- Resolution of various bugs
+```
+```
+[28/11/2020]
+- Addition of the necessary tool to break a block quickly
+- Added missing textures to some blocks
+- Fix various bugs
+```
+```
+[24/11/2020]
+- Added some recipes of potions / brewing
+- Fix of various bugs
+```
