@@ -28,30 +28,30 @@
     </ul>
 <h2>Examples</h2>
   <a>
-    <p>
+    <div>
       <code>crafter recipe observer</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-observer-recipe.png" alt="Observer recipe" width="185" height="184">
-    </p>
-    <p>
+    </div>
+    <div>
       <code>crafter recipe glass</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-glass-recipe.png" alt="Glass recipe" width="185" height="175">
-    </p>
-    <p>
+    </div>
+    <div>
       <code>crafter recipe netherite pickaxe</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-netherite-pickaxe-recipe.png" alt="Netherite Pickaxe recipe" width="276" height="197">
-    </p>
-    <p>
+    </div>
+    <div>
       <code>crafter search gold ingot</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-gold-ingot-search.png" alt="Gold Ingot search" width="229" height="229">
-    </p>
-    <p>
+    </div>
+    <div>
       <code>crafter info chest</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-chest-iteminfo.png" alt="Chest Item Info" width="163" height="267">
-    </p>
-    <p>
-      <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="232" height="121">
+    </div>
+    <div>
       <code>crafter mobinfo enderman</code>
-    </p>
+      <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="232" height="121">
+    </div>
   </a>
 
 
@@ -74,3 +74,6 @@
 - Added some recipes of potions / brewing
 - Fix of various bugs
 ```
+
+
+
