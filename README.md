@@ -9,7 +9,7 @@
 
 <h2>Features (Project in constant evolution)</h2>
     <ul>
-    	<li>All Minecraft recipes of items and some potions are referenced in a command (<code>crafter recipe [item]</code>)</li>
+    	<li>All Minecraft recipes of items and potions are referenced in a command (<code>crafter recipe [item]</code>)</li>
         <li>Find a recipe from an item ( <code>crafter search [item]</code> )</li>
       	<li>Gets information about an item or a block ( <code>crafter info [item or block]</code> )</li>
       	<li>Gets information about a mob ( <code>crafter mobinfo [mob]</code> )</li>
