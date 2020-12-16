@@ -49,8 +49,8 @@
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-chest-iteminfo.png" alt="Chest Item Info" width="163" height="267">
     </p>
     <p>
-      <code>crafter mobinfo enderman</code>
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="232" height="121">
+      <code>crafter mobinfo enderman</code>
     </p>
   </a>
 
