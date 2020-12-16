@@ -29,27 +29,27 @@
 <h2>Examples</h2>
   <a>
     <div>
-      <code>crafter recipe observer</code>
+      <!--<code>crafter recipe observer</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-observer-recipe.png" alt="Observer recipe" width="185" height="184">
     </div>
     <div>
-      <code>crafter recipe glass</code>
+      <!--<code>crafter recipe glass</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-glass-recipe.png" alt="Glass recipe" width="185" height="175">
     </div>
     <div>
-      <code>crafter recipe netherite pickaxe</code>
+      <!--<code>crafter recipe netherite pickaxe</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-netherite-pickaxe-recipe.png" alt="Netherite Pickaxe recipe" width="276" height="197">
     </div>
     <div>
-      <code>crafter search gold ingot</code>
+      <!--<code>crafter search gold ingot</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-gold-ingot-search.png" alt="Gold Ingot search" width="229" height="229">
     </div>
     <div>
-      <code>crafter info chest</code>
+      <!--<code>crafter info chest</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-chest-iteminfo.png" alt="Chest Item Info" width="163" height="267">
     </div>
     <div>
-      <code>crafter mobinfo enderman</code>
+      <!--<code>crafter mobinfo enderman</code>-->
       <img src="http://image.noelshack.com/fichiers/2020/51/1/1607982035-enderman-mobinfo.png" alt="Enderman Mob Info" width="232" height="121">
     </div>
   </a>
