@@ -59,7 +59,8 @@
 
 ```
 [29/12/2020]
-- Added a new command to translate items into different languages. The chosen item can be in the languages taken into account by the bot. (`crafter translate 'item'`)
+- Added a new command to translate items into different languages. The chosen item can be in the languages 
+taken into account by the bot. (`crafter translate 'item'`)
 - Fix various bugs
 ```
 ```
