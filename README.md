@@ -56,7 +56,11 @@
 
 
 <h2>Recent Changelog</h2>
-
+```
+[29/12/2020]
+- Added a new command to translate items into different languages. The chosen item can be in the languages taken into account by the bot. (`crafter translate 'item'`)
+- Fix various bugs
+```
 ```
 [12/12/2020]
 - Added basic game textures for items
@@ -68,9 +72,4 @@
 - Addition of the necessary tool to break a block quickly
 - Added missing textures to some blocks
 - Fix various bugs
-```
-```
-[24/11/2020]
-- Added some recipes of potions / brewing
-- Fix of various bugs
 ```
