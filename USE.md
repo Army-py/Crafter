@@ -23,7 +23,7 @@ If you are on this page it is that you would surely like to have some informatio
 <code>crafter recipe 'item' (amount)</code>
 This command allows you to get the recipe of the item you request in the command.
 
-<code>  'item'</code> :
+<code>'item'</code> :
     The language of the item must be understood in the languages taken into account by the bot (English included). 
 
 <code>(amount)</code> :
