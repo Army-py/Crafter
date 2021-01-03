@@ -16,6 +16,8 @@ Required : <code>''</code>
 
 Optional : <code>()</code>
 
+
 <h3>Commands and description</h3>
 
 <code>crafter recipe 'item' (amount)
+
