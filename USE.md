@@ -11,10 +11,10 @@
 
 If you are on this page it is that you would surely like to have some information concerning the use of the bot. Luckily for you I created a page made for that recently. Here it is ...
 
-
-Required : <code>''</code> 
-
-Optional : <code>()</code>
+<div>
+  Required : <code>''</code> 
+  Optional : <code>()</code>
+</div>
 
 
 <h3>Commands and description</h3>
