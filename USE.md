@@ -12,7 +12,8 @@
 If you are on this page it is that you would surely like to have some information concerning the use of the bot. Luckily for you I created a page made for that recently. Here it is ...
 
 <div>
-  Required : <code>''</code> 
+  Required : <code>''</code>
+
   Optional : <code>()</code>
 </div>
 
