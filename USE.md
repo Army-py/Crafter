@@ -19,7 +19,7 @@
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-names-username">Names</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-uuid-username">UUID</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine">Optifine</a></dd>
-    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-item/block/mob">Translate</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob">Translate</a></dd>
   </dl>
 
 <h2>How to use the bot ?</h2>
