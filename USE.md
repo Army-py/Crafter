@@ -10,7 +10,7 @@
 <h2>Table of contents</h2>
   <h3>Commands and description</h3>
   <ul>
-    <li>Recipe</li>
+    <li href="">Recipe</li>
     <li>Search</li>
     <li>Item Info</li>
     <li>Mob Info</li>
