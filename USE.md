@@ -28,30 +28,30 @@ This command allows you to get the recipe of the item you request in the command
 <code>(amount)</code> : Number of item you want to craft
 
 
-<h5><code>crafter search 'item'</code></h5>
+<h5>➤<code>crafter search 'item'</code></h5>
 With this command you can search for all the items that need the item you request to be crafted.
 After sending this command by searching for the name of an item, if results are available you can send the number of the item you want in the living room, without prefix or anything, just the number.
 
 <code>'item'</code> : The language of the item must be understood in the languages taken into account by the bot (English included). 
 
 
-<h5><code>crafter info 'item'</code></h5>
+<h5>➤<code>crafter info 'item'</code></h5>
 By using this command you will be able to get some information about the items and blocks of the game.
 
 <code>'item/block'</code> : The language of the item/block must be understood in the languages taken into account by the bot (English included). 
 
 
-<h5><code>crafter mobinfo 'mob'</code></h5>
+<h5>➤<code>crafter mobinfo 'mob'</code></h5>
 This command allows to retrieve some information from the mobs like their life, their attack points, their spawn....
 
 <code>'mob'</code> : The language of the mob must be understood in the languages taken into account by the bot (English included). 
 
 
-<h5><code>crafter mobs</code></h5>
+<h5>➤<code>crafter mobs</code></h5>
 Use this command if you want to get the list of mobs in the game
 
 
-<h5><code>crafter skin 'username'</code></h5>
+<h5>➤<code>crafter skin 'username'</code></h5>
 With this command you can get the skin of a Minecraft player.
 The image of the skin will only be displayed as a simple image allowing you to download it and retrieve it easily.
 
@@ -59,14 +59,14 @@ The image of the skin will only be displayed as a simple image allowing you to d
 
 
 
-<h5><code>crafter names 'username'</code></h5>
+<h5>➤<code>crafter names 'username'</code></h5>
 Use this command if you want to get a player's nickname history. It also allows you to check if a desired nickname is already in use.
 
 <code>'username'</code> : The username must be that of a mojang player playing Minecraft. A username from a crack account won't work.
 
 
 
-<h5><code>crafter uuid 'username'</code></h5>
+<h5>➤<code>crafter uuid 'username'</code></h5>
 This command allows you to retrieve the uuid of a Minecraft player. It also allows to see if a nickname is already taken.
 
 <code>'username'</code> : The username must be that of a mojang player playing Minecraft. A username from a crack account won't work.
