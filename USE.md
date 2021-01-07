@@ -27,7 +27,7 @@ This command allows you to get the recipe of the item you request in the command
 <p></p>
 ➥<code>(amount)</code> : Number of item you want to craft
 
-
+<p></p>
 <h5>➤<code>crafter search 'item'</code></h5>
 With this command you can search for all the items that need the item you request to be crafted.
 After sending this command by searching for the name of an item, if results are available you can send the number of the item you want in the living room, without prefix or anything, just the number.
