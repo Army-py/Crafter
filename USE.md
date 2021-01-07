@@ -10,16 +10,16 @@
 <h2>Table of contents</h2>
   <h3>Commands and description</h3>
   <dl>
-    <dd>➥ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount">Recipe</a></dd>
-    <dd>➥ <a href="">Search</a></dd>
-    <dd>➥ <a href="">Item Info</a></li>
-    <dd>➥ <a href="">Mob Info</a></dd>
-    <dd>➥ <a href="">Mobs</a></dd>
-    <dd>➥ <a href="">Skin</a></dd>
-    <dd>➥ <a href="">Names</a></dd>
-    <dd>➥ <a href="">UUID</a></dd>
-    <dd>➥ <a href="">Optifine</a></dd>
-    <dd>➥ <a href="">Translate</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount">Recipe</a></dd>
+    <dd>➣ <a href="">Search</a></dd>
+    <dd>➣ <a href="">Item Info</a></li>
+    <dd>➣ <a href="">Mob Info</a></dd>
+    <dd>➣ <a href="">Mobs</a></dd>
+    <dd>➣ <a href="">Skin</a></dd>
+    <dd>➣ <a href="">Names</a></dd>
+    <dd>➣ <a href="">UUID</a></dd>
+    <dd>➣ <a href="">Optifine</a></dd>
+    <dd>➣ <a href="">Translate</a></dd>
   </dl>
 
 <h2>How to use the bot ?</h2>
