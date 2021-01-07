@@ -8,7 +8,19 @@
 </a>
 
 <h2>Table of contents</h2>
-
+  <h3>Commands and description</h3>
+  <ul>
+    <li>Recipe</li>
+    <li>Search</li>
+    <li>Item Info</li>
+    <li>Mob Info</li>
+    <li>Mobs</li>
+    <li>Skin</li>
+    <li>Names</li>
+    <li>UUID</li>
+    <li>Optifine</li>
+    <li>Translate</li>
+  </ul>
 
 <h2>How to use the bot ?</h2>
 
@@ -74,5 +86,8 @@ This command allows you to retrieve the uuid of a Minecraft player. It also allo
 <p></p>
 ➥<code>'username'</code> : The username must be that of a mojang player playing Minecraft. A username from a crack account won't work.
 
+
+<h5><code>crafter optifine</code></h5>
+With this command you can get the latest versions of optifine up to 1.13.
 
 
