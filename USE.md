@@ -11,15 +11,15 @@
   <h3>Commands and description</h3>
   <dl>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount">Recipe</a></dd>
-    <dd>➣ <a href="">Search</a></dd>
-    <dd>➣ <a href="">Item Info</a></li>
-    <dd>➣ <a href="">Mob Info</a></dd>
-    <dd>➣ <a href="">Mobs</a></dd>
-    <dd>➣ <a href="">Skin</a></dd>
-    <dd>➣ <a href="">Names</a></dd>
-    <dd>➣ <a href="">UUID</a></dd>
-    <dd>➣ <a href="">Optifine</a></dd>
-    <dd>➣ <a href="">Translate</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-search-item">Search</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-info-item">Item Info</a></li>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-mobinfo-mob">Mob Info</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-mobs">Mobs</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-skin-username">Skin</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-names-username">Names</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-uuid-username">UUID</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine">Optifine</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-item/block/mob">Translate</a></dd>
   </dl>
 
 <h2>How to use the bot ?</h2>
