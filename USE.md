@@ -22,8 +22,8 @@ If you are on this page it is that you would surely like to have some informatio
 
 <h5>➤<code>crafter recipe 'item' (amount)</code></h4>
 This command allows you to get the recipe of the item you request in the command.
-
-<a STYLE="padding:0 0 0 20px;">➥<code>'item'</code> : The language of the item must be understood in the languages taken into account by the bot (English included).</a>
+<p></p>
+➥<code>'item'</code> : The language of the item must be understood in the languages taken into account by the bot (English included).<
 
 ➥<code>(amount)</code> : Number of item you want to craft
 
