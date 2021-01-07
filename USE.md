@@ -34,3 +34,12 @@ After sending this command by searching for the name of an item, if results are 
 
 <code>'item'</code> : The language of the item must be understood in the languages taken into account by the bot (English included). 
 
+
+<h5><code>crafter info 'item'</code><h5>
+By using this command you will be able to get some information about the items and blocks of the game.
+
+<code>'item/block'</code> : The language of the item/block must be understood in the languages taken into account by the bot (English included). 
+
+
+<h5><code>crafter mobinfo 'mob'</code><h5>
+
