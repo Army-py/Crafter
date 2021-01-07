@@ -91,3 +91,8 @@ This command allows you to retrieve the uuid of a Minecraft player. It also allo
 With this command you can get the latest versions of optifine up to 1.13.
 
 
+<h5><code>crafter translate 'item/block/mob'</code></h5>
+This command allows to have the translations available with the bot on the requested item/block/mob.
+<p></p>
+➥<code>'username'</code> : The item / block / mob can be written in the languages taken into account by the bot (English included).
+
