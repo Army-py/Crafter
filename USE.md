@@ -10,7 +10,7 @@
 <h2>Table of contents</h2>
   <h3>Commands and description</h3>
   <ul>
-    <li href="">Recipe</li>
+    <li href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount">Recipe</li>
     <li>Search</li>
     <li>Item Info</li>
     <li>Mob Info</li>
