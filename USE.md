@@ -178,20 +178,20 @@ This command allows to have the translations available with the bot on the reque
 <h5>➤<code>crafter names 'username'</code></h4>
 <p></p>
 <dl>
-  <dd>➥<code>crafter names Army_FR</code></dd>
   <dd>➥<code>crafter names Alyiana</code></dd>
-  <dd>➥<code>crafter names DjeyMute</code></dd>
   <dd>➥<code>crafter names Naiizis</code></dd>
+  <dd>➥<code>crafter names DjeyMute</code></dd>
+  <dd>➥<code>crafter names Army_FR</code></dd>
 </dl>
 
 
 <h5>➤<code>crafter uuid 'username'</code></h4>
 <p></p>
 <dl>
-  <dd>➥<code>crafter uuid Army_FR</code></dd>
-  <dd>➥<code>crafter uuid Alyiana</code></dd>
   <dd>➥<code>crafter uuid DjeyMute</code></dd>
   <dd>➥<code>crafter uuid Naiizis</code></dd>
+  <dd>➥<code>crafter uuid Alyiana</code></dd>
+  <dd>➥<code>crafter uuid Army_FR</code></dd>
 </dl>
 
 
