@@ -23,6 +23,18 @@
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob">Translate</a></dd>
   </dl>
   <h3>Examples</h3>
+  <dl>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount-1">Recipe</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-search-item-1">Search</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-info-item-1">Item Info</a></li>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-mobinfo-mob-1">Mob Info</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-mobs-1">Mobs</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-skin-username-1">Skin</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-names-username-1">Names</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-uuid-username-1">UUID</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine-1">Optifine</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob-1">Translate</a></dd>
+  </dl>
 
 <h2>How to use the bot ?</h2>
 
