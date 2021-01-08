@@ -112,11 +112,11 @@ This command allows you to retrieve the uuid of a Minecraft player. It also allo
   <dd>➥<code>'username'</code> : The username must be that of a mojang player playing Minecraft. A username from a crack account won't work.</dd>
 </dl>
 
-<h5><code>crafter optifine</code></h5>
+<h5>➤<code>crafter optifine</code></h5>
 With this command you can get the latest versions of optifine up to 1.13.
 
 
-<h5><code>crafter translate 'item/block/mob'</code></h5>
+<h5>➤<code>crafter translate 'item/block/mob'</code></h5>
 This command allows to have the translations available with the bot on the requested item/block/mob.
 <p></p>
 <dl>
