@@ -121,3 +121,13 @@ This command allows to have the translations available with the bot on the reque
   <dd>➥<code>crafter recipe balise</code>("balise" is in French")</dd>
   <dd>➥<code>crafter recipe balise 30</code></dd>
 </dl>
+
+
+<h5>➤<code>crafter search 'item'</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter search redstone</code></dd>
+  <dd>➥<code>crafter search stone</code></dd>
+  <dd>➥<code>crafter search Eisenbarren</code>("Eisenbarren" is in Deutsch")</dd>
+  <dd>➥<code>crafter search Demir kulçesi</code>("Demir kulçesi" is in Türk</dd>
+</dl>
