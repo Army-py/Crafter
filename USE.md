@@ -110,3 +110,14 @@ This command allows to have the translations available with the bot on the reque
 <dl>
   <dd>➥<code>'username'</code> : The item / block / mob can be written in the languages taken into account by the bot (English included).</dd>
 </dl>
+
+
+<h3>Examples</h3>
+<h5>➤<code>crafter recipe 'item' (amount)</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter recipe beacon</code></dd>
+  <dd>➥<code>crafter recipe hopper 300</code></dd>
+  <dd>➥<code>crafter recipe balise</code>("balise" is in French")</dd>
+  <dd>➥<code>crafter recipe balise 30</code></dd>
+</dl>
