@@ -8,6 +8,7 @@
 </a>
 
 <h2>Table of contents</h2>
+  <h3>How to use the bot ?</H3>
   <h3>Commands and description</h3>
   <dl>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-recipe-item-amount">Recipe</a></dd>
@@ -21,6 +22,7 @@
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine">Optifine</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob">Translate</a></dd>
   </dl>
+  <h3>Examples</h3>
 
 <h2>How to use the bot ?</h2>
 
