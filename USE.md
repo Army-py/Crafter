@@ -113,7 +113,7 @@ This command allows to have the translations available with the bot on the reque
 
 
 <h3>Examples</h3>
-<h5>➤<code>crafter recipe 'item' (amount)</code></h4>
+<h5>➤<code>crafter recipe 'item' (amount)</code></h5>
 <p></p>
 <dl>
   <dd>➥<code>crafter recipe beacon</code></dd>
@@ -123,11 +123,31 @@ This command allows to have the translations available with the bot on the reque
 </dl>
 
 
-<h5>➤<code>crafter search 'item'</code></h4>
+<h5>➤<code>crafter search 'item'</code></h5>
 <p></p>
 <dl>
   <dd>➥<code>crafter search redstone</code></dd>
   <dd>➥<code>crafter search stone</code></dd>
   <dd>➥<code>crafter search Eisenbarren</code>("Eisenbarren" is in Deutsch")</dd>
   <dd>➥<code>crafter search Demir kulçesi</code>("Demir kulçesi" is in Türk</dd>
+</dl>
+
+
+<h5>➤<code>crafter info 'item/block'</code></h5>
+<p></p>
+<dl>
+  <dd>➥<code>crafter info cactus</code></dd>
+  <dd>➥<code>crafter info torch</code></dd>
+  <dd>➥<code>crafter info Eisenbarren</code>("Eisenbarren" is in Deutsch")</dd>
+  <dd>➥<code>crafter info Demir kulçesi</code>("Demir kulçesi" is in Türk</dd>
+</dl>
+
+
+<h5>➤<code>crafter mobinfo 'mob'</code></h5>
+<p></p>
+<dl>
+  <dd>➥<code>crafter mobinfo zombie</code></dd>
+  <dd>➥<code>crafter mobinfo cat</code></dd>
+  <dd>➥<code>crafter mobinfo sorcière</code>("sorcière" is in French")</dd>
+  <dd>➥<code>crafter mobinfo squelette</code>("squelette" is in French</dd>
 </dl>
