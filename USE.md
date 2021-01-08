@@ -151,3 +151,43 @@ This command allows to have the translations available with the bot on the reque
   <dd>➥<code>crafter mobinfo sorcière</code>("sorcière" is in French")</dd>
   <dd>➥<code>crafter mobinfo squelette</code>("squelette" is in French</dd>
 </dl>
+
+
+<h5>➤<code>crafter skin 'username'</code></h5>
+<p></p>
+<dl>
+  <dd>➥<code>crafter skin Army_FR</code></dd>
+  <dd>➥<code>crafter skin Alyiana</code></dd>
+  <dd>➥<code>crafter skin DjeyMute</code></dd>
+  <dd>➥<code>crafter skin Naiizis</code></dd>
+</dl>
+
+
+<h5>➤<code>crafter names 'username'</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter names Army_FR</code></dd>
+  <dd>➥<code>crafter names Alyiana</code></dd>
+  <dd>➥<code>crafter names DjeyMute</code></dd>
+  <dd>➥<code>crafter names Naiizis</code></dd>
+</dl>
+
+
+<h5>➤<code>crafter uuid 'username'</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter uuid Army_FR</code></dd>
+  <dd>➥<code>crafter uuid Alyiana</code></dd>
+  <dd>➥<code>crafter uuid DjeyMute</code></dd>
+  <dd>➥<code>crafter uuid Naiizis</code></dd>
+</dl>
+
+
+<h5>➤<code>crafter translate 'item/block/mob'</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter translate hopper</code></dd>
+  <dd>➥<code>crafter translate stick</code></dd>
+  <dd>➥<code>crafter translate balise</code>("balise" is in French)</dd>
+  <dd>➥<code>crafter translate iron ingot</code></dd>
+</dl>
