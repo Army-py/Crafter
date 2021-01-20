@@ -60,7 +60,8 @@
 
 ```
 [18/01/2021]
-- Added a new command to get information about enchantments. The command will surely have some improvements afterwards. (crafter enchant 'enchant')
+- Added a new command to get information about enchantments. The command will surely 
+have some improvements afterwards. (crafter enchant 'enchant')
 ```
 ```
 [29/12/2020]
