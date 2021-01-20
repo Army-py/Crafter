@@ -21,6 +21,7 @@
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-uuid-username">UUID</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine">Optifine</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob">Translate</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-enchant-enchantment">Enchantment</a></dd>
   </dl>
   <h3>Examples</h3>
   <dl>
@@ -34,6 +35,7 @@
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-uuid-username-1">UUID</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-optifine-1">Optifine</a></dd>
     <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-translate-itemblockmob-1">Translate</a></dd>
+    <dd>➣ <a href="https://github.com/Army-py/Crafter-Bot/blob/main/USE.md#crafter-enchant-enchantment-1">Enchantment</a></dd>
   </dl>
 
 <h2>How to use the bot ?</h2>
@@ -210,4 +212,14 @@ This command allows you to get some information about the requested enchantment.
   <dd>➥<code>crafter translate stick</code></dd>
   <dd>➥<code>crafter translate balise</code>("balise" is in French)</dd>
   <dd>➥<code>crafter translate iron ingot</code></dd>
+</dl>
+
+
+<h5>➤<code>crafter enchant 'enchantment'</code></h4>
+<p></p>
+<dl>
+  <dd>➥<code>crafter enchant sharpness</code></dd>
+  <dd>➥<code>crafter enchant unbreaking</code></dd>
+  <dd>➥<code>crafter enchant appat</code>("appat" is in French)</dd>
+  <dd>➥<code>crafter enchant mending</code></dd>
 </dl>
