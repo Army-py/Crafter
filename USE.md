@@ -124,6 +124,14 @@ This command allows to have the translations available with the bot on the reque
 </dl>
 
 
+<h5>➤<code>crafter enchant 'enchantment'</code></h5>
+This command allows you to get some information about the requested enchantment.
+<p></p>
+<dl>
+  <dd>➥<code>'enchantment'</code> : The enchantment can be written in the languages taken into account by the bot (English included).</dd>
+</dl>
+
+
 <h3>Examples</h3>
 <h5>➤<code>crafter recipe 'item' (amount)</code></h5>
 <p></p>
