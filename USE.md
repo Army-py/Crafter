@@ -51,7 +51,7 @@ If you are on this page it is that you would surely like to have some informatio
 
 <h3>Commands and description</h3>
 
-<h5>➤<code>crafter recipe 'item' (amount)</code></h4>
+<h5>➤ <code>crafter recipe 'item' (amount)</code></h4>
 This command allows you to get the recipe of the item you request in the command.
 <p></p>
 <dl>
