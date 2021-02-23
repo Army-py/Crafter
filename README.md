@@ -57,7 +57,11 @@
 
 <h2>Recent Changelog</h2>
 
-
+```
+[22/02/2021]
+- Added 4 new languages available to get the different item information (Japan, Korean, Chinese, Arabic).
+- Correction of various bugs
+```
 ```
 [18/01/2021]
 - Added a new command to get information about enchantments. The command will surely 
@@ -68,10 +72,4 @@ have some improvements afterwards. (crafter enchant 'enchant')
 - Added a new command to translate items into different languages. The chosen item can be in the languages 
 taken into account by the bot. (crafter translate 'item')
 - Fix various bugs
-```
-```
-[12/12/2020]
-- Added basic game textures for items
-- Added the translation of the necessary items according to the language of the recipe item requested
-- Resolution of various bugs
 ```
