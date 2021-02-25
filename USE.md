@@ -115,7 +115,7 @@ This command allows you to retrieve the uuid of a Minecraft player. It also allo
 </dl>
 
 <h5>➤<code>crafter optifine</code></h5>
-With this command you can get the latest versions of optifine up to 1.13.
+With this command you can get the latest versions of optifine up to 1.12.2.
 
 
 <h5>➤ <code>crafter translate 'item/block/mob'</code></h5>
