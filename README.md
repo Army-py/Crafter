@@ -10,15 +10,15 @@
 <h2>Features (Project in constant evolution)</h2>
     <ul>
     	<li>All Minecraft recipes of items and potions are referenced in a command (<code>crafter recipe [item]</code>)</li>
-        <li>Find a recipe from an item ( <code>crafter search [item]</code> )</li>
-      	<li>Gets information about an item or a block ( <code>crafter info [item or block]</code> )</li>
-      	<li>Gets information about a mob ( <code>crafter mobinfo [mob]</code> )</li>
-      	<li>Gets list of mobs ( <code>crafter mobs</code> )</li>
-        <li>Get the skin of a payer (<code>crafter skin [username]</code>)</li>
-      	<li>Get the UUID of a payer (<code>crafter uuid [username]</code>)</li>
-        <li>Fond the usernames history from a payer (<code>crafter names [username]</code>)</li>
-      	<li>Get the list of available Optifine versions (it is possible that some versions are missing) (<code>crafter optifine</code>)</li>
-      	<li>More content and improvements are coming...</li>
+      <li>Find a recipe from an item ( <code>crafter search [item]</code> )</li>
+    	<li>Gets information about an item or a block ( <code>crafter info [item or block]</code> )</li>
+      <li>Gets information about a mob ( <code>crafter mobinfo [mob]</code> )</li>
+     	<li>Gets list of mobs ( <code>crafter mobs</code> )</li>
+      <li>Get the skin of a payer (<code>crafter skin [username]</code>)</li>
+     	<li>Get the UUID of a payer (<code>crafter uuid [username]</code>)</li>
+      <li>Fond the usernames history from a payer (<code>crafter names [username]</code>)</li>
+      <li>Get the list of available Optifine versions (it is possible that some versions are missing) (<code>crafter optifine</code>)</li>
+     	<li>More content and improvements are coming...</li>
     </ul>
 <h2>Languages</h2>
     <ul>
