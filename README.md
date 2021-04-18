@@ -3,7 +3,6 @@
   <img src="https://top.gg/api/widget/status/740727392041041981.svg" alt="Crafter" />
   <img src="https://top.gg/api/widget/servers/740727392041041981.svg?noavatar=true" alt="Crafter" />
   <img src="https://top.gg/api/widget/upvotes/740727392041041981.svg?noavatar=true" alt="Crafter" />
-  <img src="https://top.gg/api/widget/lib/740727392041041981.svg?noavatar=true" alt="Crafter" />
   <img src="https://top.gg/api/widget/owner/740727392041041981.svg?noavatar=true" alt="Crafter" />
 </a>
 
