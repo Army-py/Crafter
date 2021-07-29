@@ -57,6 +57,34 @@
 <h2>Recent Changelog</h2>
 
 ```
+[15/06/2021]
+- Added information about the three new passive mobs : axolotl, glow squid and goat
+- Correction of some wrong information about blocks (information about blocks and items in 1.17 will come soon)
+```
+```
+[14/06/2021]
+- Added recipes for items and blocks from 1.17
+- Fixed some missing textures
+```
+```
+[29/04/2021]
+- The numerical IDs of the blocks and items have been removed while I correct this because most are wrong
+```
+```
+[28/04/2021]
+- Added skin preview with the skin command
+```
+```
+[15/04/2021]
+- Addition of German in the global translation of the bot
+```
+```
+[14/04/2021]
+- Added a global translation system for the bot
+- Added two languages (French and English (USA))
+- Various bug fixes
+```
+```
 [22/02/2021]
 - Added 4 new languages available to get the different item information (Japan, Korean, Chinese, Arabic).
 - Correction of various bugs
