@@ -22,7 +22,7 @@
     "bot.library": "Librairie : `%VALUE%`",
     "bot.discord_py_version": "Version de Discord.py : `%VALUE%`",
     "bot.bot_info": "Infos du bot",
-    "bot.owner": "Créateur : ",
+    "bot.owner": "Créateur : `%VALUE%`",
     "bot.prefix": "Préfixe : `crafter ` or `@Crafter#0455`",
     "bot.help": "Help : `crafter help`",
     "bot.server_count": "Nombre de serveur : `%VALUE%`",

@@ -22,7 +22,7 @@
     "bot.library": "Library : `%VALUE%`",
     "bot.discord_py_version": "Dicord.py Version : `%VALUE%`",
     "bot.bot_info": "Bot Info",
-    "bot.owner": "Owner : ",
+    "bot.owner": "Owner : `%VALUE%`",
     "bot.prefix": "Prefix : `crafter ` or `@Crafter#0455`",
     "bot.help": "Help : `crafter help`",
     "bot.server_count": "Server Count : `%VALUE%`",
