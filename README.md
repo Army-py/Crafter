@@ -55,6 +55,7 @@
 
 
 <h2>Recent Changelog</h2>
+
 ```
 [15/06/2021]
 - Added information about the three new passive mobs : axolotl, glow squid and goat
