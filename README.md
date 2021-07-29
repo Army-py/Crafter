@@ -24,6 +24,7 @@
         <li>Added different languages to search for recipes, their info and the list of compatible recipes as well as search for mobs stats! (<code>crafter recipe balise</code> in French)</li>
         <li>Compatible languages: German, Spanish, Finnish, French, Icelandic, Macedonian, Polish, Russian, Turkish, Ukrainian.</li>
       	<li>It is possible to propose a language on the Discord server of the bot support (<a href="https://discord.gg/c3Wh7Et" target="_blank">https://discord.gg/c3Wh7Et</a>)
+        <li>You can also request to add a language for the global translation of the bot. I put the necessary files in the lang folder that you can modify to adapt it to the language you want.</li>
     </ul>
 <h2>Examples</h2>
   <a>
