@@ -1,0 +1,336 @@
+{
+    "language":"English (USA)",
+    "no_permission":"%VALUE% you do not have permission to use this command.",
+    "help.bot.brief": "Displays bot informations",
+    "help.help.brief": "Displays the commands available with the bot",
+    "help.ping.brief": "Displays the bot's ping",
+    "help.prefix.brief": "Set a new prefix for the bot",
+    "help.recipe.brief": "Displays the recipe of the requested item. **(Example : `crafter recipe golden apple` | `crafter recipe beacon 30`)**",
+    "help.list.brief": "Displays the list of available recipes with the item chosen in the command. **(Example : `crafter list redstone`)**",
+    "help.info.brief": "Allows to have some information about an item or a block. **(Example : `crafter info obsidian`)**",
+    "help.translate.brief":"Allows to translate items, blocks, mobs, enchantments in different languages **(Example : `crafter translate apple`)**",
+    "help.mobs.brief":"Allows you to obtain the list of mobs",
+    "help.mobinfo.brief": "Allows you to have some information about a mob. **(Example : `crafter mobinfo zombie`)**",
+    "help.skin.brief": "Allows to get the player's skin",
+    "help.names.brief": "Allows you to know the history of a player's username",
+    "help.uuid.brief": "Allows you to know the UUID of a player's username",
+    "help.optifine.bref": "Displays the list of available Optifine versions (it is possible that some versions are missing)",
+    "help.enchant.brief": "Allows you to have some information about a enchantment. **(Example : `crafter enchant sharpness`)**",
+    "help.lang.brief":"Allows you to define the global language of the bot among the different configurations available",
+    "bot.about_the_bot": "About the bot",
+    "bot.bot_version": "Bot Version",
+    "bot.library": "Library : `%VALUE%`",
+    "bot.discord_py_version": "Dicord.py Version : `%VALUE%`",
+    "bot.bot_info": "Bot Info",
+    "bot.owner": "Owner : ",
+    "bot.prefix": "Prefix : `crafter ` or `@Crafter#0455`",
+    "bot.help": "Help : `crafter help`",
+    "bot.server_count": "Server Count : `%VALUE%`",
+    "bot.shard_count": "Shard Count : `%VALUE%`",
+    "bot.total_members": "Total Members : `%VALUE%`",
+    "bot.bot_invitation": "Bot Invitation",
+    "bot.invitation": "Invitation : [Click here to invite the bot !](%VALUE%)",
+    "bot.how_to_use": "How to use ?",
+    "bot.click_here": "[Click here !](%VALUE%)",
+    "bot.bot_support": "Bot Support",
+    "bot.join_bot_support": "[Click here to join the support](%VALUE%)",
+    "help.list_of_commands": "List of Commands",
+    "help.informations": "Informations",
+    "help.minecraft": "Minecraft",
+    "help.requested_by": "Requested by %VALUE%",
+    "help.more_informations": "<command> for more informations",
+    "help.doesnt_exist": "The command %VALUE% doesn't exist, check the `crafter help`",
+    "ping.ping": "Ping : ",
+    "prefix.currently_prefix": "The prefix of this server is currently : `%VALUE%`",
+    "prefix.edit_prefix": "You can edit the prefix with `%VALUE%`",
+    "prefix.not_prefix": "This server has no prefix",
+    "prefix.modified_prefix": "The prefix has been modified to `%VALUE%<command>`",
+    "recipe.recipe_of": "Recipe of %VALUE%",
+    "recipe.not_found": "**%VALUE%** was not found, try with another name...",
+    "recipe.found_but_not_recipe": "**%VALUE%** was found but has no recipe, try with another name...",
+    "recipe.sent_in":"Sent in %VALUE%ms",
+    "list.recipe_list": "Recipe list of %VALUE%",
+    "list.not_found": "**%VALUE%** was not found, try with another name...",
+    "iteminfo.infos_of": "%VALUE% Infos of ",
+    "iteminfo.block": "Block",
+    "iteminfo.item": "Item",
+    "iteminfo.weapon": "Weapon",
+    "iteminfo.tool": "Tool",
+    "iteminfo.armors": "Armors",
+    "iteminfo.potions": "Potions",
+    "iteminfo.id": "ID",
+    "iteminfo.durability": "Durability",
+    "iteminfo.attack_damage": "Attack Damage",
+    "iteminfo.damage_per_second": "Damage Per Second",
+    "iteminfo.stackable": "Stackable",
+    "iteminfo.numeric_id": "Numeric ID",
+    "iteminfo.name_id": "Name ID",
+    "iteminfo.luminosity": "Luminosity",
+    "iteminfo.transparent": "Transparent",
+    "iteminfo.hardness": "Hardness",
+    "iteminfo.looting": "Looting",
+    "iteminfo.tools": "Tools",
+    "iteminfo.defense_points": "Defense Points",
+    "iteminfo.toughness": "Toughness",
+    "iteminfo.name": "Name",
+    "iteminfo.description": "Description",
+    "iteminfo.effect": "Effect",
+    "iteminfo.time": "Time",
+    "iteminfo.not_found": "**%VALUE%** was not found, try with another name...",
+    "mobs.mobs_list": "Mobs List",
+    "mobs.passive": "Passive",
+    "mobs.neutral": "Neutral",
+    "mobs.hostile": "Hostile",
+    "mobs.boss": "Boss",
+    "mobinfo.id": "ID",
+    "mobinfo.behavior": "Behavior",
+    "mobinfo.health": "Health",
+    "mobinfo.attack": "Attack",
+    "mobinfo.easy_difficulty": "Easy Difficulty",
+    "mobinfo.normal_difficulty": "Normal Difficulty",
+    "mobinfo.hard_difficulty": "Hard Difficulty",
+    "mobinfo.spawn": "Spawn",
+    "mobinfo.not_found": "**%VALUE%** was not found, try with another name...",
+    "skin.skin_of": "Skin of %VALUE%",
+    "skin.not_retrieve_id": "Could not retrieve user ID for **%VALUE%**",
+    "skin.failed_to_download": "Failed to download user info for **%VALUE%**",
+    "skin.failed_to_find": "Failed to find texture info for **%VALUE%**",
+    "skin.could_not_download": "Could not download skin for **%VALUE%**",
+    "names.username_history_of": "Username history of **%VALUE%**",
+    "names.not_retrieve_id": "Could not retrieve user ID for **%VALUE%**",
+    "names.failed_to_download": "Failed to download user info for **%VALUE%**",
+    "names.failed_to_find": "Failed to find name history for **%VALUE%**",
+    "uuid.uuid_of": "UUID of %VALUE%",
+    "uuid.not_retreive": "Could not retrieve user ID for **%VALUE%**",
+    "optifine.click_here": "[Click here !](%VALUE%)",
+    "enchantment.info_of": "Enchantment Info of %VALUE%",
+    "enchantment.id": "ID",
+    "enchantment.max_level": "Max Level",
+    "enchantment.weight": "Weight",
+    "enchantment.incompatible": "Incompatible",
+    "enchantment.description": "Description",
+    "enchantment.tools": "Tools",
+    "enchantment.not_found":"**%VALUE%** was not found, try with another name...",
+    "lang.languages":"Languages",
+    "lang.set_a_language":"<number> to set a language",
+    "lang.language_chosen":"Language chosen : **%VALUE%**",
+    "lang.already_chosen":"The language %VALUE% has already been chosen",
+
+    "enchantments":{
+        "aqua_affinity":{
+            "description": "Increases underwater mining speed",
+            "incompatible": null
+        },
+        "bane_of_arthropods":{
+            "description": "Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites and bees).",
+            "incompatible": "Smite, Sharpness"
+        },
+        "blast_protection":{
+            "description": "Reduces explosion damage and knockback.",
+            "incompatible": "Fire Protection, Protection, Projectile Protection"
+        },
+        "channeling":{
+            "description": "Trident 'channels' a bolt of lightning toward a hit entity. Functions only during thunderstorms and if target is unobstructed with opaque blocks.",
+            "incompatible": "Riptide"
+        },
+        "curse_of_biding":{
+            "description": "Except when in creative mode, items cannot be removed from armor slots except due to death or breaking.",
+            "incompatible": null
+        },
+        "curse_of_vanishing":{
+            "description": "Item destroyed on death.",
+            "incompatible": null
+        },
+        "depth_strider":{
+            "description": "Increases underwater movement speed.",
+            "incompatible": "Frost Walker"
+        },
+        "efficiency":{
+            "description": "Increases mining speed. When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency.",
+            "incompatible": null
+        },
+        "feather_falling":{
+            "description": "Reduces fall damage.",
+            "incompatible": null
+        },
+        "fire_aspect":{
+            "description": "Sets target on fire.",
+            "incompatible": null
+        },
+        "fire_protection":{
+            "description": "Reduces fire damage and burn time. Mutually exclusive with other protections.",
+            "incompatible": "Protection, Blast Protection, Projectile Protection"
+        },
+        "flame":{
+            "description": "Arrows set target on fire.",
+            "incompatible": null
+        },
+        "fortune":{
+            "description": "Increases certain block drops.",
+            "incompatible": "Silk Touch"
+        },
+        "frost_walker":{
+            "description": "Turns water beneath the player into frosted ice and prevents the damage the player would take from standing on magma blocks.",
+            "incompatible": "Depth Strider"
+        },
+        "impaling":{
+            "description": "Trident deals additional damage to mobs that spawn naturally in the ocean.",
+            "incompatible": null
+        },
+        "infinity":{
+            "description": "Shooting consumes no regular arrows.",
+            "incompatible": "Mending"
+        },
+        "knockback":{
+            "description": "Increases knockback.",
+            "incompatible": null
+        },
+        "looting":{
+            "description": "Increases mob loot.",
+            "incompatible": null
+        },
+        "loyalty":{
+            "description": "Trident returns after being thrown. Higher levels reduce return time.",
+            "incompatible": "Riptide"
+        },
+        "luck_of_the_sea":{
+            "description": "Increases rate of good loot (enchanting books, etc.)",
+            "incompatible": null
+        },
+        "lure":{
+            "description": "Decreases wait time until fish/junk/loot 'bites'.",
+            "incompatible": null
+        },
+        "mending":{
+            "description": "Repair the item while gaining XP orbs.",
+            "incompatible": "Infinity"
+        },
+        "multishot":{
+            "description": "Shoot 3 arrows at the cost of one; only one arrow can be recovered.",
+            "incompatible": "Piercing"
+        },
+        "piercing":{
+            "description": "Arrows pass through multiple entities.",
+            "incompatible": "Multishot"
+        },
+        "power":{
+            "description": "Increases arrow damage.",
+            "incompatible": null
+        },
+        "projectile_protection":{
+            "description": "Reduces projectile damage such as damage from arrows, thrown tridents, ghast and blaze fireballs, etc.",
+            "incompatible": "Protection, Blast Protection, Fire Protection"
+        },
+        "protection":{
+            "description": "Reduces most types of damage by 4% for each level.",
+            "incompatible": "Blast Protection, Fire Protection, Projectile Protection"
+        },
+        "punch":{
+            "description": "Increases arrow knockback.",
+            "incompatible": null
+        },
+        "quick_charge":{
+            "description": "Decreases crossbow charging time",
+            "incompatible": null
+        },
+        "respiration":{
+            "description": "Extends underwater breathing time.",
+            "incompatible": null
+        },
+        "riptide":{
+            "description": "Trident launches player with itself when thrown. Functions only in water or rain.",
+            "incompatible": "Channeling, Loyalty"
+        },
+        "sharpness":{
+            "description": "Increases damage.",
+            "incompatible": "Bane of Arthropods, Smite"
+        },
+        "silk_touch":{
+            "description": "Mined blocks drop themselves.",
+            "incompatible": "Fortune"
+        },
+        "smite":{
+            "description": "Increases damage to undead mobs.",
+            "incompatible": "Bane of Arthropods, Sharpness"
+        },
+        "soul_speed":{
+            "description": "Increases walking speed on soul sand or Soul Soil.",
+            "incompatible": null
+        },
+        "sweeping_edge":{
+            "description": "Increases sweeping attack damage.",
+            "incompatible": null
+        },
+        "thorns":{
+            "description": "Reflects some of the damage taken when hit, at the cost of reducing durability with each proc.",
+            "incompatible": null
+        },
+        "unbreaking":{
+            "description": "Increases item durability.",
+            "incompatible": null
+        }
+    },
+
+    "potions":{
+        "healing":{
+            "name":"Potion of Healing",
+            "description": "Restores health by 4 (<:health:838008592652828672> x 2)"
+        },
+        "fire_resistance":{
+            "name":"Potion of Fire Resistance",
+            "description": "Gives immunity to damage from fire, lava, magma blocks, campfires, and blazes ranged attacks"
+        },
+        "regeneration":{
+            "name":"Potion of Regeneration",
+            "description": "Restores half health every 2.5 seconds"
+        },
+        "strength":{
+            "name":"Potion of Strength",
+            "description": "Increases player's melee attack damage by 3"
+        },
+        "swiftness":{
+            "name":"Potion of Swiftness",
+            "description": "Increases movement speed, sprinting speed, and jumping length by 20%"
+        },
+        "night_vision":{
+            "name":"Potion of Night Vision",
+            "description": "Makes everything appear to be at the maximum light level, including underwater areas"
+        },
+        "invisibility":{
+            "name":"Potion of Invisibility",
+            "description": "Renders the player invisible. Equipped and wielded items are still visible"
+        },
+        "water_breathing":{
+            "name":"Potion of Wate Breathing",
+            "description": "Prevents the oxygen bar from depleting when underwater"
+        },
+        "leaping":{
+            "name":"Potion of Leaping",
+            "description": "Increases jump height by 1/2 block"
+        },
+        "slow_falling":{
+            "name":"Potion of Slow Falling",
+            "description": "Causes the player to fall at a slower rate and not take any damage when hitting the ground"
+        },
+        "poison":{
+            "name":"Potion of Poison",
+            "description": "Depletes half health every 1.25 seconds."
+        },
+        "weakness":{
+            "name":"Potion of Weakness",
+            "description": "Reduces player's melee attack damage by 4 (<:health:838008592652828672> x 2)"
+        },
+        "harming":{
+            "name":"Potion of Harming",
+            "description": "Inflicts 6 (<:health:838008592652828672> x 3) damage"
+        },
+        "slowness":{
+            "name":"Potion of Slowness",
+            "description": "Slows the player to 85% speed"
+        },
+        "turtle_master":{
+            "name":"Potion of the Turtle Master",
+            "description": "Slows the player by 60% speed and reduces incoming damage by 60%"
+        }
+    }
+}

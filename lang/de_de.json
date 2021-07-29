@@ -1,0 +1,336 @@
+{
+    "language":"Deutsch",
+    "no_permission":"%VALUE% Sie haben keine Berechtigung, diesen Befehl zu verwenden.",
+    "help.bot.brief": "Zeigt Bot-Informationen",
+    "help.help.brief": "Zeigt die mit dem Bot verfügbaren Befehle an",
+    "help.ping.brief": "Zeigt den Ping des Bots an",
+    "help.prefix.brief": "Setzen Sie ein neues Präfix für den Bot",
+    "help.recipe.brief": "Zeigt das Rezept des angeforderten Artikels an. **(Example : `crafter recipe golden apfel` | `crafter recipe Leuchtfeuer 30`)**",
+    "help.list.brief": "Zeigt die Liste der verfügbaren Rezepte mit dem im Befehl gewählten Element an. **(Example : `crafter list redstone`)**",
+    "help.info.brief": "Ermöglicht es, einige Informationen über ein Element oder einen Block zu haben. **(Example : `crafter info obsidian`)**",
+    "help.translate.brief":"Ermöglicht das Übersetzen von Gegenständen, Blöcken, Mobs, Verzauberungen in verschiedenen Sprachen **(Beispiel: `crafter translate apfel`)**",
+    "help.mobs.brief":"Ermöglicht es Ihnen, die Liste der Mobs zu erhalten",
+    "help.mobinfo.brief": "Ermöglicht es Ihnen, einige Informationen über einen Mob zu erhalten. **(Example : `crafter mobinfo zombie`)**",
+    "help.skin.brief": "Ermöglicht es, den Skin des Spielers zu erhalten",
+    "help.names.brief": "Ermöglicht es Ihnen, den Verlauf des Benutzernamens eines Spielers zu kennen",
+    "help.uuid.brief": "Ermöglicht es Ihnen, die UUID des Benutzernamens eines Spielers zu erfahren",
+    "help.optifine.bref": "Zeigt die Liste der verfügbaren Optifine-Versionen an (es ist möglich, dass einige Versionen fehlen)",
+    "help.enchant.brief": "Ermöglicht es Ihnen, einige Informationen über eine Verzauberung zu erhalten. **(Example : `crafter enchant scharfe`)**",
+    "help.lang.brief":"Ermöglicht es Ihnen, die globale Sprache des Bots unter den verschiedenen verfügbaren Konfigurationen zu definieren",
+    "bot.about_the_bot": "Über den Bot",
+    "bot.bot_version": "Bot-Version",
+    "bot.library": "Bibliothek : `%VALUE%`",
+    "bot.discord_py_version": "Dicord.py-Version : `%VALUE%`",
+    "bot.bot_info": "Bot Info",
+    "bot.owner": "Eigentümer : ",
+    "bot.prefix": "Präfix : `crafter ` or `@Crafter#0455`",
+    "bot.help": "Hilfe : `crafter help`",
+    "bot.server_count": "Server Anzahl : `%VALUE%`",
+    "bot.shard_count": "Scherbenzahl : `%VALUE%`",
+    "bot.total_members": "Mitglieder gesamt : `%VALUE%`",
+    "bot.bot_invitation": "Bot-Einladung",
+    "bot.invitation": "Einladung : [Klicken Sie hier, um den Bot einzuladen](%VALUE%)",
+    "bot.how_to_use": "Wie wird es verwendet?",
+    "bot.click_here": "[Klicken Sie hier!](%VALUE%)",
+    "bot.bot_support": "Bot-Unterstützung",
+    "bot.join_bot_support": "[Klicken Sie hier, um der Unterstützung beizutreten](%VALUE%)",
+    "help.list_of_commands": "Liste der Befehle",
+    "help.informations": "Informationen",
+    "help.minecraft": "Minecraft",
+    "help.requested_by": "Angefragt von %VALUE%",
+    "help.more_informations": "<Befehl> für weitere Informationen",
+    "help.doesnt_exist": "Der Befehl %VALUE% existiert nicht, prüfen Sie den `crafter help`",
+    "ping.ping": "Ping : ",
+    "prefix.currently_prefix": "Das Präfix dieses Servers lautet derzeit : `%VALUE%`",
+    "prefix.edit_prefix": "Sie können das Präfix mit `%VALUE%` bearbeiten",
+    "prefix.not_prefix": "Dieser Server hat kein Präfix",
+    "prefix.modified_prefix": "Das Präfix wurde geändert in `%VALUE%<Befehl>`",
+    "recipe.recipe_of": "Rezeptur von %VALUE%",
+    "recipe.not_found": "**%VALUE%** wurde nicht gefunden, versuchen Sie es mit einem anderen Namen...",
+    "recipe.found_but_not_recipe": "**%VALUE%** was found, but has no recipe, try another name....",
+    "recipe.sent_in":"Gesendet in %VALUE%ms",
+    "list.recipe_list": "Rezepturliste von %VALUE%",
+    "list.not_found": "**%VALUE%** wurde nicht gefunden, versuchen Sie es mit einem anderen Namen...",
+    "iteminfo.infos_of": "%VALUE% Infos von ",
+    "iteminfo.block": "Block",
+    "iteminfo.item": "Element",
+    "iteminfo.weapon": "Waffe",
+    "iteminfo.tool": "Werkzeug",
+    "iteminfo.armors": "Rüstungen",
+    "iteminfo.potions": "Tränke",
+    "iteminfo.id": "ID",
+    "iteminfo.durability": "Dauerhaftigkeit",
+    "iteminfo.attack_damage": "Angriffsschaden",
+    "iteminfo.damage_per_second": "Schaden pro Sekunde",
+    "iteminfo.stackable": "Stapelbar",
+    "iteminfo.numeric_id": "Numerische ID",
+    "iteminfo.name_id": "Name ID",
+    "iteminfo.luminosity": "Leuchtkraft",
+    "iteminfo.transparent": "Transparent",
+    "iteminfo.hardness": "Härte",
+    "iteminfo.looting": "Looting",
+    "iteminfo.tools": "Werkzeuge",
+    "iteminfo.defense_points": "Verteidigungspunkte",
+    "iteminfo.toughness": "Zähigkeit",
+    "iteminfo.name": "Name",
+    "iteminfo.description": "Description",
+    "iteminfo.effect": "Effect",
+    "iteminfo.time": "Time",
+    "iteminfo.not_found": "**%VALUE%** wurde nicht gefunden, versuchen Sie es mit einem anderen Namen...",
+    "mobs.mobs_list": "Mob-Liste",
+    "mobs.passive": "Passiv",
+    "mobs.neutral": "Neutral",
+    "mobs.hostile": "Feindliche",
+    "mobs.boss": "Boss",
+    "mobinfo.id": "ID",
+    "mobinfo.behavior": "Verhalten",
+    "mobinfo.health": "Gesundheit",
+    "mobinfo.attack": "Angriff",
+    "mobinfo.easy_difficulty": "Leicht Schwierigkeitsgrad",
+    "mobinfo.normal_difficulty": "Normaler Schwierigkeitsgrad",
+    "mobinfo.hard_difficulty": "Hart Schwierigkeitsgrad",
+    "mobinfo.spawn": "Laich",
+    "mobinfo.not_found": "**%VALUE%** wurde nicht gefunden, versuchen Sie es mit einem anderen Namen...",
+    "skin.skin_of": "Skin von %VALUE%",
+    "skin.not_retrieve_id": "Benutzer-ID für **%VALUE%** konnte nicht abgerufen werden",
+    "skin.failed_to_download": "Download der Benutzerdaten für **%VALUE%** fehlgeschlagen",
+    "skin.failed_to_find": "Es konnten keine Texturinformationen für **%VALUE%** gefunden werden.",
+    "skin.could_not_download": "Skin für **%VALUE%** konnte nicht heruntergeladen werden",
+    "names.username_history_of": "Benutzername Geschichte von **%VALUE%**",
+    "names.not_retrieve_id": "Benutzer-ID für **%VALUE%** konnte nicht abgerufen werden",
+    "names.failed_to_download": "Download der Benutzerdaten für **%VALUE%** fehlgeschlagen",
+    "names.failed_to_find": "Namenshistorie für **%VALUE%** konnte nicht gefunden werden",
+    "uuid.uuid_of": "UUID von %VALUE%",
+    "uuid.not_retreive": "Benutzer-ID für **%VALUE%** konnte nicht abgerufen werden",
+    "optifine.click_here": "[Klicken Sie hier!](%VALUE%)",
+    "enchantment.info_of": "Verzauberung Info von %VALUE%",
+    "enchantment.id": "ID",
+    "enchantment.max_level": "Max. Pegel",
+    "enchantment.weight": "Gewicht",
+    "enchantment.incompatible": "Inkompatibel",
+    "enchantment.description": "Beschreibung",
+    "enchantment.tools": "Werkzeuge",
+    "enchantment.not_found":"**%VALUE%** wurde nicht gefunden, versuchen Sie es mit einem anderen Namen...",
+    "lang.languages":"Sprachen",
+    "lang.set_a_language":"<Nummer> zum Einstellen einer Sprache",
+    "lang.language_chosen":"Gewählte Sprache : **%VALUE%**",
+    "lang.already_chosen":"Die Sprache %VALUE% wurde bereits gewählt",
+
+    "enchantments":{
+        "aqua_affinity":{
+            "description": "Erhöht die Unterwasser-Abbaugeschwindigkeit",
+            "incompatible": null
+        },
+        "bane_of_arthropods":{
+            "description": "Erhöht den Schaden und wendet Verlangsamung IV auf Arthropoden-Mobs (Spinnen, Höhlenspinnen, Silberfischchen, Endermiten und Bienen) an.",
+            "incompatible": "Bann, Scharfe"
+        },
+        "blast_protection":{
+            "description": "Verringert Explosionsschaden und Rückstoß.",
+            "incompatible": "Feuerschutz, Schutz, Schusssicher"
+        },
+        "channeling":{
+            "description": "Dreizack 'kanalisiert' einen Blitz in Richtung einer getroffenen Entität. Funktioniert nur bei Gewitter und wenn das Ziel nicht durch undurchsichtige Blöcke behindert wird.",
+            "incompatible": "Sog"
+        },
+        "curse_of_biding":{
+            "description": "Außer im Kreativmodus können Gegenstände nicht aus Rüstungsschlitzen entfernt werden, außer durch Tod oder Zerbrechen.",
+            "incompatible": null
+        },
+        "curse_of_vanishing":{
+            "description": "Gegenstand wird beim Tod zerstört.",
+            "incompatible": null
+        },
+        "depth_strider":{
+            "description": "Erhöht die Bewegungsgeschwindigkeit unter Wasser.",
+            "incompatible": "Eislaufer"
+        },
+        "efficiency":{
+            "description": "Erhöht die Abbau-Geschwindigkeit. Bei Anwendung auf eine Axt erhöht sich die Chance, dass die Axt einen Schild betäubt, wobei die Basischance 25 % beträgt und für jede Effizienzstufe um 5 % steigt.",
+            "incompatible": null
+        },
+        "feather_falling":{
+            "description": "Reduziert den Fallschaden.",
+            "incompatible": null
+        },
+        "fire_aspect":{
+            "description": "Setzt das Ziel in Brand.",
+            "incompatible": null
+        },
+        "fire_protection":{
+            "description": "Verringert Brandschaden und Brenndauer. Schließt sich gegenseitig mit anderen Schutzvorrichtungen aus.",
+            "incompatible": "Schutz, Explosionsschutz, Schusssicher"
+        },
+        "flame":{
+            "description": "Pfeile setzen das Ziel in Brand.",
+            "incompatible": null
+        },
+        "fortune":{
+            "description": "Erhöht bestimmte Blockabwürfe.",
+            "incompatible": "Behutsamkeit"
+        },
+        "frost_walker":{
+            "description": "Verwandelt das Wasser unter dem Spieler in gefrorenes Eis und verhindert den Schaden, den der Spieler nehmen würde, wenn er auf Magmablöcken steht.",
+            "incompatible": "Wasserlaufer"
+        },
+        "impaling":{
+            "description": "Der Dreizack verursacht zusätzlichen Schaden an Mobs, die auf natürliche Weise im Ozean spawnen.",
+            "incompatible": null
+        },
+        "infinity":{
+            "description": "Beim Schießen werden keine regulären Pfeile verbraucht.",
+            "incompatible": "Reparatur"
+        },
+        "knockback":{
+            "description": "Erhöht den Rückschlag.",
+            "incompatible": null
+        },
+        "looting":{
+            "description": "Erhöht die Mob-Beute.",
+            "incompatible": null
+        },
+        "loyalty":{
+            "description": "Der Dreizack kehrt zurück, nachdem er geworfen wurde. Höhere Stufen verkürzen die Rückkehrzeit.",
+            "incompatible": "Sog"
+        },
+        "luck_of_the_sea":{
+            "description": "Erhöht die Rate der guten Beute (Verzauberungsbücher usw.)",
+            "incompatible": null
+        },
+        "lure":{
+            "description": "Verringert die Wartezeit, bis Fisch/Dreck/Dreck 'anbeißt'.",
+            "incompatible": null
+        },
+        "mending":{
+            "description": "Reparieren Sie den Gegenstand, während Sie XP-Kugeln erhalten.",
+            "incompatible": "Unendlichkeit"
+        },
+        "multishot":{
+            "description": "Schießen Sie 3 Pfeile auf Kosten von einem; nur ein Pfeil kann wiederhergestellt werden.",
+            "incompatible": "Durchschuss"
+        },
+        "piercing":{
+            "description": "Pfeile gehen durch mehrere Objekte.",
+            "incompatible": "Mehrfachschuss"
+        },
+        "power":{
+            "description": "Erhöht den Pfeilschaden.",
+            "incompatible": null
+        },
+        "projectile_protection":{
+            "description": "Verringert Projektilschaden, wie z. B. Schaden durch Pfeile, geworfene Dreizacke, Ghast- und Flammenfeuerbälle usw.",
+            "incompatible": "Schutz, Explosionsschutz, Feuerschutz"
+        },
+        "protection":{
+            "description": "Verringert die meisten Schadensarten um 4 % für jede Stufe.",
+            "incompatible": "Explosionsschutz, Feuerschutz, Schusssicher"
+        },
+        "punch":{
+            "description": "Erhöht den Pfeilrückschlag.",
+            "incompatible": null
+        },
+        "quick_charge":{
+            "description": "Verringert die Ladezeit der Armbrust",
+            "incompatible": null
+        },
+        "respiration":{
+            "description": "Verringert die Ladezeit der Armbrust",
+            "incompatible": null
+        },
+        "riptide":{
+            "description": "Dreizack wirft Spieler mit sich, wenn er geworfen wird. Funktioniert nur in Wasser oder Regen.",
+            "incompatible": "Entladung, Loyalty"
+        },
+        "sharpness":{
+            "description": "Erhöht den Schaden.",
+            "incompatible": "Nemesis der gliederfusser, Bann"
+        },
+        "silk_touch":{
+            "description": "Abgebaute Blöcke fallen von selbst.",
+            "incompatible": "Gluck"
+        },
+        "smite":{
+            "description": "Erhöht den Schaden an untoten Mobs.",
+            "incompatible": "Nemesis der gliederfusser, Scharfe"
+        },
+        "soul_speed":{
+            "description": "Erhöht die Laufgeschwindigkeit auf Seelensand oder Seelenerde.",
+            "incompatible": null
+        },
+        "sweeping_edge":{
+            "description": "Erhöht den Schaden von Wischangriffen.",
+            "incompatible": null
+        },
+        "thorns":{
+            "description": "Reflektiert einen Teil des erlittenen Schadens, wenn er getroffen wird, auf Kosten der Verringerung der Haltbarkeit mit jedem Proc.",
+            "incompatible": null
+        },
+        "unbreaking":{
+            "description": "Erhöht die Haltbarkeit von Gegenständen.",
+            "incompatible": null
+        }
+    },
+
+    "potions":{
+        "healing":{
+            "name":"Trank der Feuerresistenz",
+            "description": "Stellt die Gesundheit um 4 (<:health:838008592652828672> x 2) wieder her"
+        },
+        "fire_resistance":{
+            "name":"Trank der Feuerresistenz",
+            "description": "Verleiht Immunität gegen Schaden durch Feuer-, Lava-, Magmablöcke, Lagerfeuer und Flammen-Fernangriffe"
+        },
+        "regeneration":{
+            "name":"Trank der Regeneration",
+            "description": "Stellt alle %VALUE% Sekunden die halbe Gesundheit wieder her"
+        },
+        "strength":{
+            "name":"Trank der Stärke",
+            "description": "Erhöht den Schaden der Nahkampfangriffe des Spielers um 3."
+        },
+        "swiftness":{
+            "name":"Trank der Schnelligkeit",
+            "description": "Erhöht die Bewegungsgeschwindigkeit, Sprintgeschwindigkeit und Sprungweite um 20%."
+        },
+        "night_vision":{
+            "name":"Trank der Nachtsicht",
+            "description": "Lässt alles auf dem maximalen Lichtniveau erscheinen, auch Unterwasserbereiche"
+        },
+        "invisibility":{
+            "name":"Trank der Unsichtbarkeit",
+            "description": "Macht den Spieler unsichtbar. Ausgerüstete und gehandhabte Gegenstände sind weiterhin sichtbar"
+        },
+        "water_breathing":{
+            "name":"Trank der Unterwasseratmung",
+            "description": "Verhindert, dass sich die Sauerstoffleiste unter Wasser entleert"
+        },
+        "leaping":{
+            "name":"Trank der Sprungkraft",
+            "description": "Erhöht die Sprunghöhe um 1/2 Block"
+        },
+        "slow_falling":{
+            "name":"Trank des sanften Falls",
+            "description": "Bewirkt, dass der Spieler langsamer fällt und beim Aufprall auf den Boden keinen Schaden nimmt"
+        },
+        "poison":{
+            "name":"Trank der Vergiftung",
+            "description": "Verbraucht alle 1.25 Sekunden die halbe Gesundheit."
+        },
+        "weakness":{
+            "name":"Trank der Schwäche",
+            "description": "Reduziert den Schaden von Nahkampfangriffen des Spielers um 4 (<:health:838008592652828672> x 2)"
+        },
+        "harming":{
+            "name":"Trank des Schadens",
+            "description": "Fügt 6 (<:health:838008592652828672> x 3) Schaden zu"
+        },
+        "slowness":{
+            "name":"Trank der Langsamkeit",
+            "description": "Verlangsamt den Spieler auf 85% Geschwindigkeit"
+        },
+        "turtle_master":{
+            "name":"Trank des Schildkrötenmeisters",
+            "description": "Verlangsamt den Spieler um 60% Geschwindigkeit und reduziert eingehenden Schaden um 60%."
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "language": "Français",
+    "no_permission": "%VALUE% tu n'as pas la permission d'utiliser cette commande",
+    "help.bot.brief": "Affiche les informations du bot",
+    "help.help.brief": "Affiche les commandes disponibles avec le bot",
+    "help.ping.brief": "Affiche le ping du bot",
+    "help.prefix.brief": "Permet de définir le nouveau préfixe du bot",
+    "help.recipe.brief": "Affiche la recette de l'item demandé **(Exemple : `crafter recipe pomme d'or` | `crafter recipe balise 30`)**",
+    "help.list.brief": "Affiche la liste des recettes disponibles contenant l'item demandé **(Exemple : `crafter list redstone`)**",
+    "help.info.brief": "Permet d'avoir quelques informations sur un item ou un block **(Exemple : `crafter info obsidienne`)**",
+    "help.translate.brief":"Permet de traduire les items, blocs, mobs, enchantements dans différentes langues **(Exemple : `crafter translate pomme`)**",
+    "help.mobs.brief": "Permet d'avoir la liste des mobs",
+    "help.mobinfo.brief": "Permet d'avoir quelques informations sur un mob **(Exemple : `crafter mobinfo zombie`)**",
+    "help.skin.brief": "Permet d'avoir le skin d'un joueur",
+    "help.names.brief": "Affiche l'historique des pseudos d'un joueur",
+    "help.uuid.brief": "Affiche l'UUID d'un joueur",
+    "help.optifine.bref": "Affiche la liste des versions disponibles d'Optifine (il est possible qu'il y manque des versions)",
+    "help.enchant.brief": "Permet d'obtenir quelques informations sur un enchantement **(Exemple : `crafter enchant tranchant`)**",
+    "help.lang.brief": "Permet de définir la langue global du bot parmis les configurations disponibles",
+    "bot.about_the_bot": "A propos du bot",
+    "bot.bot_version": "Version du bot",
+    "bot.library": "Librairie : `%VALUE%`",
+    "bot.discord_py_version": "Version de Discord.py : `%VALUE%`",
+    "bot.bot_info": "Infos du bot",
+    "bot.owner": "Créateur : ",
+    "bot.prefix": "Préfixe : `crafter ` or `@Crafter#0455`",
+    "bot.help": "Help : `crafter help`",
+    "bot.server_count": "Nombre de serveur : `%VALUE%`",
+    "bot.shard_count": "Nombre de Shard : `%VALUE%`",
+    "bot.total_members": "Nombre d'utilisateurs : `%VALUE%`",
+    "bot.bot_invitation": "Invitation du bot",
+    "bot.invitation": "Invitation : [Clique ici pour inviter le bot !](%VALUE%)",
+    "bot.how_to_use": "Comment utiliser le bot ?",
+    "bot.click_here": "[Clique ici !](%VALUE%)",
+    "bot.bot_support": "Support du bot",
+    "bot.join_bot_support": "[Clique ici pour rejoindre le support !](%VALUE%)",
+    "help.list_of_commands": "Liste des commandes",
+    "help.informations": "Informations",
+    "help.minecraft": "Minecraft",
+    "help.requested_by": "Demandé par %VALUE%",
+    "help.more_informations": "<commande> pour plus d'informations",
+    "help.doesnt_exist": "La commande %VALUE% n'existe pas, regarde dans `crafter help`",
+    "ping.ping": "Ping : ",
+    "prefix.currently_prefix": "Le préfixe du serveur est : `%VALUE%`",
+    "prefix.edit_prefix": "Tu peux modifier le préfixe du bot avec `%VALUE%`",
+    "prefix.not_prefix": "Ce serveur n'a pas de préfixe",
+    "prefix.modified_prefix": "Le préfixe a été modifié pour `%VALUE%<command>`",
+    "recipe.recipe_of": "Recette de %VALUE%",
+    "recipe.not_found": "**%VALUE%** n'a pas été trouvé, essaye avec un autre nom...",
+    "recipe.found_but_not_recipe": "**%VALUE%** a été trouvé mais ne possède aucune recette, essaye avec un autre nom...",
+    "recipe.sent_in": "Envoyé en %VALUE%ms",
+    "list.recipe_list": "Liste de recettes avec %VALUE%",
+    "list.not_found": "**%VALUE%** n'a pas été trouvé, essaye avec un autre nom...",
+    "iteminfo.infos_of": "%VALUE% Infos de ",
+    "iteminfo.block": "Blocs",
+    "iteminfo.item": "Item",
+    "iteminfo.weapon": "Armes",
+    "iteminfo.tool": "Outils",
+    "iteminfo.armors": "Armures",
+    "iteminfo.potions": "Potions",
+    "iteminfo.id": "ID",
+    "iteminfo.durability": "Durabilité",
+    "iteminfo.attack_damage": "Dégats d'attaque",
+    "iteminfo.damage_per_second": "Dégats par seconde",
+    "iteminfo.stackable": "Stackable",
+    "iteminfo.numeric_id": "ID numérique",
+    "iteminfo.name_id": "Nom de l'ID",
+    "iteminfo.luminosity": "Luminosité",
+    "iteminfo.transparent": "Transparent",
+    "iteminfo.hardness": "Dureté",
+    "iteminfo.looting": "Loot",
+    "iteminfo.tools": "Outils",
+    "iteminfo.defense_points": "Points de défense",
+    "iteminfo.toughness": "Robustesse",
+    "iteminfo.name": "Nom",
+    "iteminfo.description": "Déscription",
+    "iteminfo.effect": "Effet",
+    "iteminfo.time": "Temps",
+    "iteminfo.not_found": "**%VALUE%** n'a pas été trouvé, essaye avec un autre nom...",
+    "mobs.mobs_list": "Liste des mobs",
+    "mobs.passive": "Passif",
+    "mobs.neutral": "Neutre",
+    "mobs.hostile": "Hostile",
+    "mobs.boss": "Boss",
+    "mobinfo.id": "ID",
+    "mobinfo.behavior": "Comportement",
+    "mobinfo.health": "Vie",
+    "mobinfo.attack": "Attaque",
+    "mobinfo.easy_difficulty": "Difficulté facile",
+    "mobinfo.normal_difficulty": "Difficulté normal",
+    "mobinfo.hard_difficulty": "Difficulté difficile",
+    "mobinfo.spawn": "Apparition",
+    "mobinfo.not_found": "**%VALUE%** n'a pas été trouvé, essaye avec un autre nom...",
+    "skin.skin_of": "Skin de %VALUE%",
+    "skin.not_retrieve_id": "Impossible de récupérer l'UUID de **%VALUE%**",
+    "skin.failed_to_download": "Échec du téléchargement des informations de **%VALUE%**",
+    "skin.failed_to_find": "Impossible de trouver des informations de la texture de **%VALUE%**",
+    "skin.could_not_download": "Impossible de récupérer le skin de **%VALUE%**",
+    "names.username_history_of": "Historique des pseudos de **%VALUE%**",
+    "names.not_retrieve_id": "Impossible de récupérer l'UUID de **%VALUE%**",
+    "names.failed_to_download": "Échec du téléchargement des informations de **%VALUE%**",
+    "names.failed_to_find": "Impossible de trouver l'historique des pseudos de **%VALUE%**",
+    "uuid.uuid_of": "UUID de %VALUE%",
+    "uuid.not_retreive": "Impossible de récupérer l'UUID de **%VALUE%**",
+    "optifine.click_here": "[Clique ici !](%VALUE%)",
+    "enchantment.info_of": "Informations sur l'enchantement %VALUE%",
+    "enchantment.id": "ID",
+    "enchantment.max_level": "Niveau maximum",
+    "enchantment.weight": "Poids",
+    "enchantment.incompatible": "Incompatibilités",
+    "enchantment.description": "Déscription",
+    "enchantment.tools": "Outils",
+    "enchantment.not_found": "**%VALUE%** n'a pas été trouvé, essaye avec un autre nom...",
+    "lang.languages": "Langues",
+    "lang.set_a_language": "<nombre> pour définir une langue",
+    "lang.language_chosen": "Langue choisie : **%VALUE%**",
+    "lang.already_chosen":"La langue %VALUE% a déjà été choisi",
+
+    "enchantments": {
+        "aqua_affinity": {
+            "description": "Augmente la vitesse de minage sous l'eau",
+            "incompatible": null
+        },
+        "bane_of_arthropods": {
+            "description": "Augmente les dégâts et applique la lenteur IV aux monstres arthropodes. (arraignés, arraignés des cavernes, silverfish, endermites et abeilles).",
+            "incompatible": "Tranchant, Châtiment"
+        },
+        "blast_protection": {
+            "description": "Réduit les dégâts d'explosion et le recul.",
+            "incompatible": "Protection contre le feu, Protection, Protection contre les projectiles"
+        },
+        "channeling": {
+            "description": "Le trident 'canalise' un éclair vers une entité touchée. Ne fonctionne que pendant les orages et si la cible n'est pas obstruée par des blocs opaques.",
+            "incompatible": "Impulsion"
+        },
+        "curse_of_biding": {
+            "description": "L'item ne peut pas être retirés des emplacements d'armure, sauf en cas de décès ou de rupture.",
+            "incompatible": null
+        },
+        "curse_of_vanishing": {
+            "description": "L'item est détruit à la mort",
+            "incompatible": null
+        },
+        "depth_strider": {
+            "description": "Augmente la vitesse des mouvements sous l'eau",
+            "incompatible": "Semelles givrantes"
+        },
+        "efficiency": {
+            "description": "Augmente la vitesse de minage. Lorsqu'il est appliqué à une hache, il augmente la chance que la hache puisse étourdir un bouclier, la chance de base étant de 25% et une augmentation de 5% pour chaque niveau d'efficacité.",
+            "incompatible": null
+        },
+        "feather_falling": {
+            "description": "Réduction des dégàts de chute",
+            "incompatible": null
+        },
+        "fire_aspect": {
+            "description": "Met la cible en feu",
+            "incompatible": null
+        },
+        "fire_protection": {
+            "description": "Réduit les dommages causés par le feu et le temps de combustion",
+            "incompatible": "Protection, Protection contre les explosions, Protection contre les projectiles"
+        },
+        "flame": {
+            "description": "Les flèches enflamment la cible",
+            "incompatible": null
+        },
+        "fortune": {
+            "description": "Augmente le drop de certains blocs",
+            "incompatible": "Toucher de soie"
+        },
+        "frost_walker": {
+            "description": "Transforme l'eau sous le joueur en glace givrée et empêche les dégâts que le joueur subirait en se tenant sur des blocs de magma.",
+            "incompatible": "Agilité aquatique"
+        },
+        "impaling": {
+            "description": "Le trident inflige des dégâts supplémentaires aux monstres qui apparaissent naturellement dans l'océan.",
+            "incompatible": null
+        },
+        "infinity": {
+            "description": "Le tir de l'arc ne consomme aucune flèche ordinaire.",
+            "incompatible": "Raccomodage"
+        },
+        "knockback": {
+            "description": "Augmente le recul",
+            "incompatible": null
+        },
+        "looting": {
+            "description": "Augmente le drop des loots des mobs",
+            "incompatible": null
+        },
+        "loyalty": {
+            "description": "Le trident revient après avoir été lancé. Les niveaux supérieurs réduisent le temps de retour",
+            "incompatible": "Impulsion"
+        },
+        "luck_of_the_sea": {
+            "description": "Augmente le taux de bon butin (livres d'enchantement, etc)",
+            "incompatible": null
+        },
+        "lure": {
+            "description": "Diminue le temps d'attente jusqu'à ce que le poisson",
+            "incompatible": null
+        },
+        "mending": {
+            "description": "Réparer l'objet en gagnant des orbes d'XP",
+            "incompatible": "Infinité"
+        },
+        "multishot": {
+            "description": "Tirer 3 flèches au prix d'une seule ; une seule flèche peut être récupérée..",
+            "incompatible": "Perforation"
+        },
+        "piercing": {
+            "description": "Les flèches passent à travers plusieurs entités.",
+            "incompatible": "Tir multiple"
+        },
+        "power": {
+            "description": "Augmente les dégâts des flèches",
+            "incompatible": null
+        },
+        "projectile_protection": {
+            "description": "Réduit les dégâts des projectiles tels que les flèches, les tridents lancés, les boules de feu des ghast et des flammes, etc.",
+            "incompatible": "Protection, Protection contre les projectiles, Protection contre le feu"
+        },
+        "protection": {
+            "description": "Réduit la plupart des types de dégâts de 4% pour chaque niveau.",
+            "incompatible": "Protection contre les explosions, Protection contre les projectiles, Protection contre le feu"
+        },
+        "punch": {
+            "description": "Augmente le recul des flèches",
+            "incompatible": null
+        },
+        "quick_charge": {
+            "description": "Diminue le temps de recharche des arbalètes",
+            "incompatible": null
+        },
+        "respiration": {
+            "description": "Augmente le temps de réspiration sous l'eau",
+            "incompatible": null
+        },
+        "riptide": {
+            "description": "Le trident lance le joueur avec lui-même lorsqu'il est lancé. Ne fonctionne que dans l'eau ou sous la pluie.",
+            "incompatible": "Canalisation, Loyauté"
+        },
+        "sharpness": {
+            "description": "Augmente les dégàts",
+            "incompatible": "Fléau des arthropodes, Châtiment"
+        },
+        "silk_touch": {
+            "description": "Drop le bloc miné",
+            "incompatible": "Fortune"
+        },
+        "smite": {
+            "description": "Augmente les dégâts infligés aux monstres morts-vivants",
+            "incompatible": "Fléau des arthropodes, Tranchant"
+        },
+        "soul_speed": {
+            "description": "Augmente la vitesse de déplacer sur le sable des âmes et la terre des âmes",
+            "incompatible": null
+        },
+        "sweeping_edge": {
+            "description": "Augmente les dégâts des attaques de balayage.",
+            "incompatible": null
+        },
+        "thorns": {
+            "description": "Renvoie une partie des dégâts subis lorsqu'il est touché, au prix d'une réduction de la durabilité",
+            "incompatible": null
+        },
+        "unbreaking": {
+            "description": "Augmente la durabilité de l'item.",
+            "incompatible": null
+        }
+    },
+
+    "potions": {
+        "healing": {
+            "name":"Potion de soin",
+            "description": "Régénère la vie de 4 (<:health:838008592652828672> x 2)"
+        },
+        "fire_resistance": {
+            "name":"Potion de résistance au feu",
+            "description": "Donne une immunité contre les dégâts de feu, de lave, de blocs dd magma, des feux de camps et des attaques de blaze"
+        },
+        "regeneration": {
+            "name":"Potion de régénération",
+            "description": "Régénère la vie d'un demi cœur toutes les 2.5 secondes"
+        },
+        "strength": {
+            "name":"Potion de force",
+            "description": "Augmente les dégâts de mêlées d'un joueur de 3"
+        },
+        "swiftness": {
+            "name":"Potion de rapidité",
+            "description": "Augmente la vitesse de déplacement, la vitesse de course et la hauteur de saut de 20%"
+        },
+        "night_vision": {
+            "name":"Potion de vision nocture",
+            "description": "Donne l'impression que tout est éclairé au maximum, y compris les zones immergées"
+        },
+        "invisibility": {
+            "name":"Potion de d'invisibilité",
+            "description": "Rend le joueur invisible. Les objets équipés et maniés sont toujours visibles."
+        },
+        "water_breathing": {
+            "name":"Potion de respiration aquatique",
+            "description": "Empêche la barre d'oxygène de s'épuiser sous l'eau"
+        },
+        "leaping": {
+            "name":"Potion de saut",
+            "description": "Augmente la hauteur de saut de 1/2 bloc"
+        },
+        "slow_falling": {
+            "name":"Potion de chute lente",
+            "description": "Le joueur tombe plus lentement et ne subit aucun dommage lorsqu'il touche le sol."
+        },
+        "poison": {
+            "name":"Potion de poison",
+            "description": "Détruit la moitié d'un cœur toutes les 1.25 secondes"
+        },
+        "weakness": {
+            "name":"Potion de faiblesse",
+            "description": "Réduit de 4 (<:health:838008592652828672> x 2) les dégâts des attaques de mêlée du joueur"
+        },
+        "harming": {
+            "name":"Potion de dégàts",
+            "description": "Inflige 6 (<:health:838008592652828672> x 3) de dégâts"
+        },
+        "slowness": {
+            "name":"Potion de lenteur",
+            "description": "Ralenti le joueur à 85% de vitesse"
+        },
+        "turtle_master": {
+            "name":"Potion du Maître Tortue",
+            "description": "Ralentit le joueur de 60% de vitesse et réduit les dégâts de 60%."
+        }
+    }
+}
