@@ -26,6 +26,10 @@
       	<li>It is possible to propose a language on the Discord server of the bot support (<a href="https://discord.gg/c3Wh7Et" target="_blank">https://discord.gg/c3Wh7Et</a>)
         <li>You can also request to add a language for the global translation of the bot. I put the necessary files in the `lang` folder that you can modify to adapt it to the language you want.</li>
     </ul>
+<h2>Bugs & other problems</h2>
+    <ul>
+        <li>If you encounter a problem with the bot or you think a bug has occurred you can create an issue explaining the problem so that I can easily identify where the error may come from.</li>
+    </ul>
 <h2>Examples</h2>
   <a>
     <div>
